@@ -1,5 +1,7 @@
 # Clojure-Sales-Order-Application
-Comp 6441 (Comparative study of programming language) Assignment-2 in functional programming language Clojure. 
+Comp 6441 (Comparative study of programming language) Assignment-2 in functional programming language Clojure.
+See A2.pdf for better understanding of problem statement.
+
 You will provide the following menu to allow the
 user to perform actions on the data:
 *** Sales Menu ***
